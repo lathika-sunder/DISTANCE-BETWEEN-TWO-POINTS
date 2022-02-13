@@ -1,4 +1,4 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+# DISTANCE-BETWEEN-TWO-POINT
 
 ## AIM:
 To write a python program to find the distance two 2 points
@@ -12,8 +12,8 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### PROGRAM:
 ```
   #Program to find the distance between two points.
-#Developed by:logeshwari
-#RegisterNumber:21500746
+#Developed by:Lathika Sunder
+#RegisterNumber:212221230054
 import math
 l1=[10,6]
 l2=[4,2]
